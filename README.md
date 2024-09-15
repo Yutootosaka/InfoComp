@@ -20,7 +20,7 @@ Console output:
 - Processor architecture : Successfully get Processor architecture
 - IPv4 Address : Successfully retrieved IPv4 Address
 - Registered Owner : Successfully get registered Owner
-Enter to exit...
+- Enter to exit...
 
 HOW TO RUN THIS PROGRAM :
 TO RUN THIS PROGRAM MAKE SURE ADD THIS COMMAND -lws2_32, for example :
