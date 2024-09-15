@@ -5,7 +5,7 @@ This program collects system information such as the hostname, OS version, regis
 
 NOTE : this program only work on Windows Environment
 
-The program generated info.txt after run, this is exaple inside info.txt:
+The program generated info.txt after run, this is example inside info.txt:
 - Host name : MyComputerName
 - OS Name : Windows 10
 - System Model : Windows 10 Pro
@@ -22,6 +22,5 @@ Console output:
 - Registered Owner : Successfully get registered Owner
 - Enter to exit...
 
-HOW TO RUN THIS PROGRAM :
 TO RUN THIS PROGRAM MAKE SURE ADD THIS COMMAND -lws2_32, for example :
-    g++ main.cpp -o out -lws2_32 
+- g++ main.cpp -o out -lws2_32 
