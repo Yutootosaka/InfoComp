@@ -5,7 +5,6 @@ This program collects system information such as the hostname, OS version, regis
 
 NOTE :
 - this program only work on Windows Environment
-- before run this program maksure get rid of useless files like .vscode test.txt
 - after run this program, the program generated info.txt, Inside the info.txt there is:
      SYSTEM INFORMATION
      ==================
